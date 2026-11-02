@@ -1,6 +1,6 @@
 # StudyBot
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Navigate to the directory:**
    ```bash
